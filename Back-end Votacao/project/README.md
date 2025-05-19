@@ -4,7 +4,7 @@ API REST para gerenciamento de pautas e sessões de votação em cooperativas, d
 
 ## Tecnologias Utilizadas
 
-- Java 11
+- Java 17
 - Spring Boot 2.7.10
 - Spring Data JPA
 - Banco de dados H2 (em memória)
